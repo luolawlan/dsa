@@ -6,6 +6,6 @@ struct Node {
 };
 
 // base operator.
-struct new_node(){
-	
+struct struct* newnode(){
+	reutrn struct;
 }
