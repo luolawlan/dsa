@@ -8,5 +8,5 @@ class node {
 
 // linked list
 class linkedlist expend node {
-	constructor(
+	constructor()
 }
