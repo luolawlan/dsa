@@ -5,5 +5,11 @@ public:
 	int *next;
 	LinkedNode(){};
 	~LinkedNode(){};
-	void isEmpty(){};
+	void isEmpty(int data&,int* next){
+		if ()
+		{
+			
+		}
+		
+	};
 };
