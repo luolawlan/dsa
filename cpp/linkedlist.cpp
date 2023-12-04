@@ -1,10 +1,9 @@
-class ListNode {
-	private:
-		int data,
-		int* next,
-
-	public:
-		void isEmpty(){
-
-		}
-}
+class LinkedNode
+{
+public:
+	int data;
+	int *next;
+	LinkedNode(){};
+	~LinkedNode(){};
+	void isEmpty(){};
+};
