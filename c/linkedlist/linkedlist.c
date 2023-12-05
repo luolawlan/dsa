@@ -5,7 +5,7 @@ struct Node{
     struct Node* next;
 };
 
-// insert
-void insert(struct node){
-    
-};
+int create(int mock,struct node* next){
+    if (su)
+    return 
+}

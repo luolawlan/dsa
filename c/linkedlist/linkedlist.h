@@ -1,3 +1,3 @@
 struct Node;
 
-void insert(struct node);
+int create(int mock,struct node* next);
