@@ -1,3 +1,0 @@
-struct stack {
-    int * 
-}
