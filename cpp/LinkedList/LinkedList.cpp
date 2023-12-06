@@ -1,5 +1,6 @@
 #include"LinkedList.h"
 
+// Node class
 class ListedNode {
 private:
     int* next;
@@ -7,6 +8,7 @@ private:
     int value;
 };
 
+// linkedlist class
 class ListedList: LinkedNode {
 public:
     void add(int value,int* pre){
