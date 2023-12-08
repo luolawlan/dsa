@@ -1,2 +1,0 @@
-class LinkedNode;
-class LinkedList;
