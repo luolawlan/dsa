@@ -1,0 +1,3 @@
+struct Arr;
+struct ArrElment;
+
