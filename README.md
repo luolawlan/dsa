@@ -2,4 +2,4 @@
 My Abstract data type practice project
 
 ## Contact
-luolawlan@outlook.com
+email: luolawlan@outlook.com
