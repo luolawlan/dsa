@@ -1,4 +1,4 @@
 # To do list
-- [ ] JavaScript
-- [ ] C++
-- [ ] Java
+- [ ] LinkedList
+- [ ] Quene
+- [ ] Stack
